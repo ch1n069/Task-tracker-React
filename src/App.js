@@ -4,6 +4,7 @@ import "./App.css";
 // components import
 
 import Form from "./components/form";
+import TodoList from "./components/TodoList";
 
 function App() {
   return (
